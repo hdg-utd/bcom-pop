@@ -304,14 +304,13 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		color: inherit;
-		border-bottom: dotted 1px;
+		color: #ffe4b4 !important;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffe4b4;
+			color: #e7f15a !important;
 		}
 
 	strong, b {
